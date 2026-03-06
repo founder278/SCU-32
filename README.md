@@ -54,7 +54,7 @@ Organizational Stress Detection Engine
 
 Institutional Artificial Nervous Systems.
 
-A paradigm where artificial intelligence functions not only as a generator of outputs, but as a **regulatory nervous system for institutions**.
+A paradigm where artificial intelligence functions not only as a generator of outputs, but as a regulatory nervous system for institutions.
 
 ---
 
