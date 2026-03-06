@@ -62,8 +62,7 @@ A paradigm where artificial intelligence functions not only as a generator of ou
 
 Architecture under active development.
 
-Initial public release  
-March 26
+Initial public release: March 26
 
 ---
 
