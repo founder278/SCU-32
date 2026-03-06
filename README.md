@@ -1,86 +1,38 @@
-# SCU•32 Framework
 
-Institutional Artificial Nervous Systems  
-A Neuro-Inspired Architecture for Adaptive Governance
+# Institutional Artificial Nervous Systems
 
-Author: Amilcar Oliva  
-CU Core Technologies LLC  
-Intelligent Systems Architecture
+A coherence-based architecture for adaptive governance in complex institutional systems.
 
----
+This repository contains the conceptual and research foundations of the SCU-32 framework.
 
-![SCU-32 Architecture](diagrams/38BA3B28-1132-48C0-B436-F9EC3383002C.PNG)
+## Core Idea
 
----
+Modern institutions fail not only because of bad decisions, but because they lose structural coherence.
 
-## Overview
+This project explores governance architectures capable of detecting drift, managing correction energy, and maintaining systems within their validity domain.
 
-SCU•32 proposes a structural architecture for intelligent systems operating across multiple domains of knowledge.
+## Research Papers
 
-Rather than treating disciplines as isolated areas of expertise, the framework organizes them as interconnected layers within an integrated intelligence ecosystem.
+Core research documents are located in `/papers`.
 
-The architecture allows scientific, technical, environmental, institutional, and human systems to be analyzed through a unified structural logic.
+Key topics include:
 
----
+- Coherence theory
+- Governance dynamics
+- Organizational burnout detection
+- Adaptive institutional feedback systems
 
-## Core Concept
+## Objective
 
-Modern systems — institutions, organizations, infrastructures, and scientific domains — behave as complex adaptive networks.
+Develop a new class of governance architectures inspired by biological nervous systems, enabling institutions to:
 
-SCU•32 models these systems using a structure inspired by biological nervous systems:
+- detect structural drift early
+- maintain decision coherence
+- reduce systemic friction
+- prevent organizational burnout
 
-• Observation  
-• Viability  
-• Emergence  
-• Coherence  
-• Implementation  
-• Institutional Integration
+## Repository Structure
 
----
-
-## Domain Architecture
-
-### Human & Health Systems
-MEDIC•32  
-DERM•32  
-PSYCHE•32  
-HESTIA•32  
-NATURA•32  
-BIO•32  
-
-### Built Environment
-ARCHITECT•32  
-CIVIL•32  
-
-### Digital & Institutional Systems
-CYBER•32  
-LEGAL•32  
-DATA•32  
-
-### Environmental Systems
-EIRENE•32  
-
-### Creative Systems
-LUMINA•32  
-
-### Knowledge Systems
-EDU•32  
-
-### System Integration
-SYSTEM•32  
-
----
-
-## Status
-
-Architecture under active development.
-
-Public release scheduled: March 26
-
----
-
-## Author
-
-Amilcar Oliva  
-CU Core Technologies LLC  
-Intelligent Systems Architecture
+diagrams/   → system architecture diagrams  
+docs/       → technical documentation  
+papers/     → conceptual and research papers
