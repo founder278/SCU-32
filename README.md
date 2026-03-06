@@ -1,8 +1,7 @@
 # SCU•32 Framework
-![SCU-32 Architecture](diagrams/scu32-architecture.png)
 Institutional Artificial Nervous Systems  
 A coherence-based architecture for adaptive governance in complex systems.
-
+![SCU-32 Architecture](./diagrams/scu32-architecture.png)
 ---
 
 ## Overview
