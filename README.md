@@ -9,7 +9,7 @@ Intelligent Systems Architecture
 
 ---
 
-![SCU-32 Architecture](diagrams/scu32-architecture.png)
+![SCU-32 Architecture](diagrams/38BA3B28-1132-48C0-B436-F9EC3383002C.PNG)
 
 ---
 
