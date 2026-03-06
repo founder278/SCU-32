@@ -64,3 +64,17 @@ Architecture under active development.
 
 Initial public release  
 March 26
+
+---
+
+## Author
+
+Amilcar Oliva  
+CU Core Technologies LLC  
+Intelligent Systems Architecture
+
+## Research Domain
+
+Institutional Artificial Nervous Systems  
+AI Governance Architecture  
+Structural Coherence Systems
