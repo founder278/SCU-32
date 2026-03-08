@@ -1,6 +1,21 @@
 
 # Institutional Artificial Nervous Systems
+## Core Mathematical Model
 
+The formal mathematical core of the SCU•32 framework is described in:
+
+The formal mathematical core of the SCU•32 framework is described in:
+
+[SCU32_Correction_Latency_Model.md](SCU32_Correction_Latency_Model.md)
+
+This model defines the stability dynamics of institutional systems through the relationship between:
+
+This model defines the stability dynamics of institutional systems through the relationship between:
+
+Correction Latency  
+Error Accumulation Rate  
+Stability Tolerance Threshold  
+Institutional Drift Index
 A coherence-based architecture for adaptive governance in complex institutional systems.
 
 This repository contains the conceptual and research foundations of the SCU-32 framework.
