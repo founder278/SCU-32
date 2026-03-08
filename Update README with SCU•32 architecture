@@ -24,6 +24,7 @@ The architecture allows scientific, technical, environmental, institutional, and
 
 ## Core Concept
 
+SCU•32 models institutions as adaptive systems governed by coherence dynamics.
 Modern systems — institutions, organizations, infrastructures, and scientific domains — behave as complex adaptive networks.
 
 SCU•32 models these systems using a structure inspired by biological nervous systems:
@@ -35,7 +36,16 @@ SCU•32 models these systems using a structure inspired by biological nervous s
 • Implementation  
 • Institutional Integration  
 
----
+## Core System Documents
+
+
+[Correction Latency Model](SCU32_Correction_Latency_Model.md)
+
+[Structural Signal Taxonomy](SCU32_Structural_Signal_Taxonomy.md)
+
+[Institutional Nervous System Architecture](SCU32_Institutional_Nervous_System.md)
+
+[System Architecture Diagram](SCU32_System_Architecture.md)
 
 ## Domain Architecture
 
