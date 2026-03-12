@@ -75,7 +75,7 @@ The model formalizes how delayed responses can push systems outside their stabil
 
 Location:
 
-papers/scu32-correction-latency-model.md
+[Correction Latency Model](papers/scu32-correction-latency-model.md)
 
 ---
 
