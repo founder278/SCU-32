@@ -1,10 +1,38 @@
-
 # Institutional Artificial Nervous Systems
-## Core Mathematical Model
 
-The formal mathematical core of the SCU•32 framework is described in:
+A research framework exploring coherence-based architectures for adaptive governance in complex institutional systems.
+
+---
+
+## Core Idea
+
+Modern institutions do not fail only because of incorrect decisions.  
+They fail when structural coherence across decision processes, incentives, and feedback loops deteriorates.
+
+This project explores governance architectures capable of detecting systemic drift, regulating correction dynamics, and maintaining complex systems within their operational stability domain.
+
+---
+
+## Mathematical Model
+
+The conceptual mathematical model describing the stability dynamics of institutional systems is presented in:
+
+SCU32_Correction_Latency_Model.md
+
+The model explores relationships between structural variables such as:
+
+- correction latency
+- error accumulation
+- stability tolerance
+- institutional drift
+
+These variables define the conditions under which complex governance systems remain stable or enter systemic instability.
+
+---
 
 ## Research Notes
+
+Core conceptual notes include:
 
 - **State Space Governance — Governing Admissible Domains in Autonomous Systems**  
   papers/state-space-governance.md
@@ -15,50 +43,22 @@ The formal mathematical core of the SCU•32 framework is described in:
 - **Institutional Artificial Nervous Systems**  
   papers/institutional-artificial-nervous-system.md
 
-The formal mathematical core of the SCU•32 framework is described in:
-
-[SCU32_Correction_Latency_Model.md](SCU32_Correction_Latency_Model.md)
-
-This model defines the stability dynamics of institutional systems through the relationship between:
-
-This model defines the stability dynamics of institutional systems through the relationship between:
-
-Correction Latency  
-Error Accumulation Rate  
-Stability Tolerance Threshold  
-Institutional Drift Index
-A coherence-based architecture for adaptive governance in complex institutional systems.
-
-This repository contains the conceptual and research foundations of the SCU-32 framework.
-
-## Core Idea
-
-Modern institutions fail not only because of bad decisions, but because they lose structural coherence.
-
-This project explores governance architectures capable of detecting drift, managing correction energy, and maintaining systems within their validity domain.
-
-## Research Papers
-
-Core research documents are located in `/papers`.
-
-Key topics include:
-
-- Coherence theory
-- Governance dynamics
-- Organizational burnout detection
-- Adaptive institutional feedback systems
+---
 
 ## Objective
 
-Develop a new class of governance architectures inspired by biological nervous systems, enabling institutions to:
+The goal of this research is to explore governance architectures inspired by biological nervous systems capable of helping institutions:
 
 - detect structural drift early
 - maintain decision coherence
 - reduce systemic friction
-- prevent organizational burnout
+- mitigate organizational burnout
+- preserve stability in high-complexity environments
+
+---
 
 ## Repository Structure
 
-diagrams/   → system architecture diagrams  
-docs/       → technical documentation  
-papers/     → conceptual and research papers
+diagrams/ → system architecture diagrams  
+docs/ → technical documentation  
+papers/ → conceptual and research papers
