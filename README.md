@@ -58,7 +58,7 @@ These signals form the input layer of the institutional nervous system and allow
 
 Location:
 
-papers/structural-signal-taxonomy.md
+[Structural Signal Taxonomy](papers/structural-signal-taxonomy.md)
 
 ---
 
