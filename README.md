@@ -46,7 +46,7 @@ This paper describes how institutions can be modeled as systems that sense struc
 
 Location:
 
-papers/institutional-artificial-nervous-system.md
+[Institutional Artificial Nervous System](papers/institutional-artificial-nervous-system.md)
 
 ---
 
