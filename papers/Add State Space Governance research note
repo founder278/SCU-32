@@ -1,0 +1,209 @@
+# State Space Governance  
+### Governing Admissible Domains in Autonomous Systems
+
+Amílcar Oliva  
+CU Core Technologies LLC  
+Architecture for Intelligent Systems
+
+---
+
+## Abstract
+
+Current AI governance frameworks largely focus on validating individual actions through compliance checks, runtime monitoring, or post-hoc audits. While these mechanisms are necessary, they are insufficient for complex autonomous systems where risk emerges from the trajectory of the system within its state space rather than from isolated decisions.
+
+This paper introduces the concept of **State Space Governance**, an architectural approach in which governance operates by constraining the admissible domain of system states. Instead of merely validating actions, the system maintains operation within a viable region of the state space.
+
+This perspective reframes governance as a **control architecture**, aligning AI governance with principles from control theory, viability theory, and complex systems dynamics.
+
+---
+
+## 1. Structural Limitation of Current Governance Models
+
+Most AI governance frameworks operate at one of three levels:
+
+**Compliance Governance**  
+Policies and regulations defining acceptable behavior.
+
+**Monitoring Governance**  
+Runtime observation of system activity to detect anomalies.
+
+**Execution Governance**  
+Validation of individual actions for authorization, admissibility, or policy alignment.
+
+While useful, these models share a structural limitation.
+
+They evaluate **actions**, not **system trajectories**.
+
+In complex adaptive systems, instability often emerges when the system gradually drifts outside its viable operational domain, even if each individual action remains locally legitimate.
+
+---
+
+## 2. The State Space Perspective
+
+Let a system evolve according to
+
+x(t+1) = f(x(t), u(t))
+
+Where
+
+x(t) = system state  
+u(t) = system action or control input
+
+Traditional governance ensures:
+
+u(t) ∈ U_allowed
+
+However, long-term stability requires:
+
+x(t) ∈ X_safe for all t
+
+Where:
+
+X_safe represents the **admissible state space** of the system.
+
+A system can satisfy all action constraints while still evolving toward states outside X_safe.
+
+When this occurs, the system experiences **trajectory drift**, eventually leading to instability or systemic failure.
+
+---
+
+## 3. Definition
+
+**State Space Governance** is the architectural enforcement of constraints on the admissible state space of an autonomous system.
+
+Instead of validating actions alone, governance ensures that the **trajectory of system states remains within a viable domain**.
+
+This shifts governance from:
+
+action validation
+
+to
+
+trajectory constraint.
+
+---
+
+## 4. Core Architecture
+
+State Space Governance requires four functional layers.
+
+### Domain Definition
+
+Define the viable domain of system operation.
+
+This domain includes structural constraints such as:
+
+• objective alignment  
+• operational stability  
+• institutional coherence  
+• regulatory boundaries  
+
+This defines the admissible state space:
+
+X_safe
+
+---
+
+### Boundary Detection
+
+Continuous monitoring of trajectory relative to system boundaries.
+
+Key indicators include:
+
+• trajectory drift  
+• correction energy  
+• structural friction  
+• decision-outcome divergence  
+• incentive misalignment
+
+---
+
+### Control Intervention
+
+When trajectories approach boundary conditions, control mechanisms intervene.
+
+Examples:
+
+• action restriction  
+• trajectory correction  
+• rollback  
+• execution pause  
+
+These mechanisms stabilize the system before it exits its viable domain.
+
+---
+
+### Coherence Restoration
+
+If the system exits X_safe, structural restoration procedures must occur.
+
+Examples include:
+
+• model recalibration  
+• governance realignment  
+• state reconstruction  
+• system reset protocols
+
+---
+
+## 5. Relationship to Control Theory
+
+State Space Governance aligns with established concepts in dynamic systems theory including:
+
+• viability theory  
+• state constraint control  
+• model predictive control  
+• bounded trajectory stabilization
+
+These approaches recognize that system safety depends on maintaining trajectories within constrained domains.
+
+Applying these principles to AI governance transforms governance into a **control layer embedded within the system architecture**.
+
+---
+
+## 6. Implications for Autonomous Systems
+
+As agent-based systems scale, interactions become nonlinear and emergent.
+
+Failure rarely arises from a single incorrect decision.
+
+Instead, instability emerges from cumulative trajectory drift across system dynamics.
+
+Under these conditions:
+
+compliance is insufficient  
+monitoring is reactive
+
+Effective governance must operate at the level of **state space control**.
+
+---
+
+## 7. Integration with SCU•32
+
+State Space Governance aligns with the core architecture of SCU•32.
+
+COHERENCE•32 evaluates whether system dynamics remain within the valid operational domain.
+
+CONTROL•32 performs trajectory-level interventions when boundary conditions are approached.
+
+DIAGNOSTIC•32 identifies structural sources of drift and instability.
+
+Together these components form a **coherence control plane** capable of maintaining system viability under dynamic conditions.
+
+---
+
+## 8. Conclusion
+
+In autonomous systems, governance cannot rely solely on validating decisions.
+
+Stability depends on constraining the domain in which system dynamics unfold.
+
+The transition from action-level governance to **state-space governance** represents a critical architectural shift for the future of AI systems.
+
+---
+
+## Principle
+
+Governance does not control decisions.
+
+Governance controls the domain in which decisions are allowed to exist.
