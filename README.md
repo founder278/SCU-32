@@ -1,6 +1,5 @@
 # SCU•32  
 SCU-32 is a coherence-based research architecture for understanding, diagnosing, and governing complex institutional systems.
----
 
 
 The SCU-32 framework models organizations, institutions, and large-scale socio-technical environments as adaptive systems that maintain stability through continuous feedback, signal interpretation, and corrective intervention.
