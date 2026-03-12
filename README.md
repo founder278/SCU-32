@@ -12,7 +12,9 @@ The architecture introduces the concept of an Institutional Artificial Nervous S
 
 ## Core Idea
 
-## System Control Loop
+## System Control 
+
+This diagram illustrates the feedback loop through which SCU-32 detects structural drift, interprets system signals, and coordinates corrective intervention.
 
 ```mermaid
 flowchart LR
