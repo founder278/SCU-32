@@ -4,6 +4,17 @@
 
 The formal mathematical core of the SCU•32 framework is described in:
 
+## Research Notes
+
+- **State Space Governance — Governing Admissible Domains in Autonomous Systems**  
+  papers/state-space-governance.md
+
+- **Coherence Theory**  
+  papers/coherence-theory.md
+
+- **Institutional Artificial Nervous Systems**  
+  papers/institutional-artificial-nervous-system.md
+
 The formal mathematical core of the SCU•32 framework is described in:
 
 [SCU32_Correction_Latency_Model.md](SCU32_Correction_Latency_Model.md)
