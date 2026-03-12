@@ -78,7 +78,7 @@ G --> A
 ```
 
 ---
-
+SCU-32 models institutional governance as a layered control architecture capable of detecting structural drift, evaluating coherence conditions, and coordinating corrective intervention across complex systems.
 ## Conceptual Model
 
 SCU-32 treats institutions as **adaptive systems operating under coherence constraints**.
