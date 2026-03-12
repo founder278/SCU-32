@@ -12,6 +12,20 @@ The architecture introduces the concept of an Institutional Artificial Nervous S
 
 ## Core Idea
 
+## System Control Loop
+
+```mermaid
+flowchart LR
+
+A[Structural Signals] --> B[Observation Layer]
+B --> C[Diagnostic Layer]
+C --> D[Governance Decision]
+D --> E[Corrective Intervention]
+E --> F[System Adaptation]
+F --> A
+
+```
+
 Complex systems rarely collapse suddenly.
 
 They drift.
