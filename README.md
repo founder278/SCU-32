@@ -10,6 +10,14 @@ Instead of treating failure as an isolated event, SCU-32 analyzes how structural
 
 The architecture introduces the concept of an **Institutional Artificial Nervous System** — a governance layer capable of sensing structural signals, interpreting system conditions, and coordinating corrective action across institutional structures.
 
+
+## Coherence as a Viability Constraint
+
+SCU-32 defines coherence not as a property, but as a viability constraint.
+
+Systems remain stable only while their internal signals, incentives, and corrective mechanisms operate within an admissible response window.
+
+When this constraint is violated, drift accelerates, correction latency increases, and instability emerges.
 ---
 
 ## Core Idea
@@ -78,7 +86,7 @@ G --> A
 ```
 
 ---
-SCU-32 models institutional governance as a layered control architecture capable of detecting structural drift, evaluating coherence conditions, and coordinating corrective intervention across complex systems.
+SCU-32 formalizes institutional governance as a layered control architecture...
 ## Conceptual Model
 
 SCU-32 treats institutions as **adaptive systems operating under coherence constraints**.
